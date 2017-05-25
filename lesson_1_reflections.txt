@@ -1,0 +1,4 @@
+How might using version control make you more confident to make changes that could break something?
+
+Porque me permite tener más seguridad que al guardar un cambio y no funcione puedo volver a versiones anteriores
+ y conocer dónde está mi error. Además, me permite darme cuenta de mi error y mejorar como programador.

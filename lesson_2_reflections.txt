@@ -1,0 +1,4 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+It is initialize a repository in a hidden folder that stores metadata. It is not created any commit. I need to go to my folder with
+cd path, then "git init", finally I could wrote git status to see the status.
