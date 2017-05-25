@@ -2,3 +2,7 @@ What happens when you initialize a repository? Why do you need to do it?
 
 It is initialize a repository in a hidden folder that stores metadata. It is not created any commit. I need to go to my folder with
 cd path, then "git init", finally I could wrote git status to see the status.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+Staging area is a middle area where I decide what archives will be created a commit. The working directory is the folder
+where the archives are store and the repository is the .git repository where it is store the data from each commit.
