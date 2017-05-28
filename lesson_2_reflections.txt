@@ -6,3 +6,19 @@ cd path, then "git init", finally I could wrote git status to see the status.
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 Staging area is a middle area where I decide what archives will be created a commit. The working directory is the folder
 where the archives are store and the repository is the .git repository where it is store the data from each commit.
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+When I modified sustancially a project, but I want to conserve a version that already function and it´s diferent.
+
+How do the diagrams help you visualize the branch structure?
+Because it could be that a commit is unreachable, so I could know if it is a part of a branch. Also, it gives me an overall
+understanding of the code.
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+It gives a branch that is a result of two branches. I think that is very useful with collaborative work if they are distinct
+features because it allows merge rapidly. Also it is an updating to the master branch.
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+Automatic it is faster, for example, different features that doesn´t affect each one. Unless, it could be changes of the same
+section so merges manually allow the user to disscuss and choose the best optiion for the project. It both of the commits were
+added it cause a bug in the program.
